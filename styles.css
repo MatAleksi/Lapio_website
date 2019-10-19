@@ -7,6 +7,8 @@
 	width: 200px;
 	height: 100px;
 	background-color: yellow;
+	left: 250px;
+	position: relative;
 }
 .third-box-container {
 	width: 200px;
